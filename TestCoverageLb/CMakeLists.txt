@@ -3,5 +3,5 @@ project(Interpret)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Interpret main.cpp
-        expr.cpp)
+add_executable(TestCoverage main.cpp
+        expr.cpp cmdline.cpp TESTS.cpp)

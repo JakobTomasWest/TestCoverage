@@ -1,0 +1,16 @@
+# ninja log v5
+0	4084	1706817509305356992	CMakeFiles/main.cpp.dir/cmdline.cpp.o	e0606d216826a1b5
+0	611	1706817505845795793	CMakeFiles/main.cpp.dir/TESTS.cpp.o	a381c52a78ec6094
+510	575	1706817430240278402	Interpret	50f5c82db8254fda
+0	4198	1706817403612812578	CMakeFiles/Interpret.dir/cmdline.cpp.o	c04be3f3c186cf5c
+0	65	1706817549528429204	build.ninja	1c7cc63848afe135
+7	509	1706817430174128421	CMakeFiles/Interpret.dir/TESTS.cpp.o	b1046adc833126fa
+0	437	1706817399869895155	CMakeFiles/Interpret.dir/main.cpp.o	544c749f417a868f
+0	431	1706817505667020279	CMakeFiles/main.cpp.dir/expr.cpp.o	71cb91d8df9870db
+0	384	1706817399814375788	CMakeFiles/Interpret.dir/expr.cpp.o	584bf47c1a74aee4
+0	55	1706817549528429204	build.ninja	1c7cc63848afe135
+0	699	1706817550227554832	CMakeFiles/TestCoverage.dir/expr.cpp.o	cbf666962b4eccc5
+0	782	1706817550312271092	CMakeFiles/TestCoverage.dir/main.cpp.o	fe5a91559998e274
+0	962	1706817550494244367	CMakeFiles/TestCoverage.dir/TESTS.cpp.o	ef7679f0832ad270
+0	4457	1706817553979581606	CMakeFiles/TestCoverage.dir/cmdline.cpp.o	4d7630f565723696
+4457	4525	1706817554059228207	TestCoverage	7f2784a98115239f

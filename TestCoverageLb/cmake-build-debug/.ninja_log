@@ -1,0 +1,6 @@
+# ninja log v5
+0	61	1706817398507272083	build.ninja	2165f23e9ce66fb9
+0	3663	1706817396034059421	CMakeFiles/Interpret.dir/cmdline.cpp.o	55c14c3d1064b91c
+3663	3715	1706817396098388614	Interpret	de683216eea6a964
+0	401	1706817392783411307	CMakeFiles/Interpret.dir/expr.cpp.o	b0caa36c1fd793d2
+0	441	1706817392823161742	CMakeFiles/Interpret.dir/main.cpp.o	9652b1c4554cdb6c

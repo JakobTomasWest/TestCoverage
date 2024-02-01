@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jakobwest/Desktop/UtahMSD/CS6015/TestCoverageLb
+# Install script for directory: /Users/shanechen/Desktop/MSD/ReposFor/TestCoverage/TestCoverageLb
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jakobwest/Desktop/UtahMSD/CS6015/TestCoverageLb/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/shanechen/Desktop/MSD/ReposFor/TestCoverage/TestCoverageLb/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
