@@ -11,3 +11,4 @@ jobs:
         run: make
       - name: Run test
         run: make test
+        working-directory: Lab03
