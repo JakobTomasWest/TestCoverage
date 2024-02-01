@@ -1,7 +1,7 @@
 compile:
 	c++ -std=c++17 *.cpp -o build
 .PHONY: build
-test:
+test: build
 	./build --test
 #will clean build eecutable
 clean:
